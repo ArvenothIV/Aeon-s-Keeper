@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 4371fd4a5e40e274a800001de12ef416
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mage_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 146
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 146
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 146
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 50
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mage_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: bd70c3193dd7a2d449d86f743156314b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Goblin_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 193
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 193
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 130
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 66
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 66
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 66
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Goblin_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

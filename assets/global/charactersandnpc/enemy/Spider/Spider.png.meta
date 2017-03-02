@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: baab7eeb3ead22e48900898b8e4fac5b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spider_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 107
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 107
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 107
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 115
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 117
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 112
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 73
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 72
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 72
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 81
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 39
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 39
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 39
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 43
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Spider_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 11
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: d516dbd471f00a24dad3e2be8e797d43
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 168-Small10_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 73
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 73
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 52
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 52
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 27
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 28
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 5
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 168-Small10_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

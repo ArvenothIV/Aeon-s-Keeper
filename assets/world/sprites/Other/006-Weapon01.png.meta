@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 38e98856e703b44469400cccc43c1276
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 006-Weapon01_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 652
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 006-Weapon01_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 619
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 006-Weapon01_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 610
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 006-Weapon01_4
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 606
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 006-Weapon01_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 475
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 006-Weapon01_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 435
+        width: 63
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 006-Weapon01_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 408
+        width: 111
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 006-Weapon01_13
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 424
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 006-Weapon01_14
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 421
+        width: 108
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 006-Weapon01_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 284
+        width: 139
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 006-Weapon01_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 284
+        width: 143
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 006-Weapon01_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 284
+        width: 142
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 006-Weapon01_19
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 198
+        width: 170
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 006-Weapon01_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 006-Weapon01_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 006-Weapon01_24
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 85
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
